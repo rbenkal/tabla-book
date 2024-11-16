@@ -1,0 +1,4 @@
+[submodule "tabla-book-site/public"]
+	path = tabla-book-site/public
+	url = https://github.com/rbenkal/rbenkal.github.io.git
+	branch = main
